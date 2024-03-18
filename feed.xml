@@ -3,12 +3,32 @@
     <title>tdc_blog</title>
     <link href="https://tan-dc.github.io/feed.xml" rel="self" />
     <link href="https://tan-dc.github.io" />
-    <updated>2024-03-18T19:21:07+08:00</updated>
+    <updated>2024-03-18T19:37:43+08:00</updated>
     <author>
         <name>tdc</name>
     </author>
     <id>https://tan-dc.github.io</id>
 
+    <entry>
+        <title>ce测试</title>
+        <author>
+            <name>tdc</name>
+        </author>
+        <link href="https://tan-dc.github.io/cece-shi.html"/>
+        <id>https://tan-dc.github.io/cece-shi.html</id>
+
+        <updated>2024-03-18T19:37:43+08:00</updated>
+            <summary>
+                <![CDATA[
+                    Hello World
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hello World</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Hello</title>
         <author>
