@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>tdc_blog</title>
+    <link href="https://tan-dc.github.io/feed.xml" rel="self" />
+    <link href="https://tan-dc.github.io" />
+    <updated>2024-03-18T19:21:07+08:00</updated>
+    <author>
+        <name>tdc</name>
+    </author>
+    <id>https://tan-dc.github.io</id>
+
+    <entry>
+        <title>Hello</title>
+        <author>
+            <name>tdc</name>
+        </author>
+        <link href="https://tan-dc.github.io/hello.html"/>
+        <id>https://tan-dc.github.io/hello.html</id>
+
+        <updated>2024-03-18T19:21:07+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://tan-dc.github.io/sitemap.xml
